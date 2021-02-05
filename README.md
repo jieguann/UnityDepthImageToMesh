@@ -1,5 +1,7 @@
 # UnityDepthImageToMesh
  
+ ![Alt text](Images/DepthGeneration.png)
+ 
 Reference
 
 Takashi Yoshinaga Vertices Example
