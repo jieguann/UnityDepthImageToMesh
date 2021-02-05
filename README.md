@@ -1,6 +1,6 @@
 # UnityDepthImageToMesh
  
- ![Alt text](Images/DepthGeneration.png)
+ ![Alt text](Image/DepthGeneration.png)
  
 Reference
 
