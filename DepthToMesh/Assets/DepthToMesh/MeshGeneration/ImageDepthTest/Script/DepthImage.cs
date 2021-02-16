@@ -100,7 +100,8 @@ public class DepthImage : MonoBehaviour
 
                 //to showing the vertices since the r value is too small
                 float pointDepth = -100;
-                depth = depthPixels[index_dst].r *pointDepth;
+                depth = depthPixels[index_dst].grayscale *pointDepth;
+                //depth = depthPixels[index_dst].r * pointDepth;
                 //print(depthPixels[5]);
 
                 vertices[index_dst].z = -depth;
